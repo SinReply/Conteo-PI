@@ -1,4 +1,4 @@
-Copyright (c) 2026 SinReply - All rights reserved.
+Copyright (©) 2026 SinReply - All rights reserved.
 
 Este software ha sido creado y es propiedad intelectual de su autor original.
 
